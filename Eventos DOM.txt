@@ -1,0 +1,8 @@
+Eventos DOM
+Todo evento que acontecer no sistema através de uma ação do usuário!
+mouseenter: o mouse entra na 'area'
+mousemove: mouse se move na 'area'
+mousedown: click/segura do mouse
+mouseup: mouse retorna para cima
+clik: apenas um clik
+mouseout: o mouse sai da 'area'
